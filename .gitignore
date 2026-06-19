@@ -1,0 +1,21 @@
+## Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## SQLite database (runtime file)
+*.db
+*.db-journal
+
+## NuGet
+packages/
+*.nupkg
+
+## OS
+.DS_Store
+Thumbs.db
