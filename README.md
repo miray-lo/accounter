@@ -60,3 +60,5 @@ Amount	REAL	金額
 Note	TEXT	備註
 👤 作者
 學號：1133512　姓名：羅健安
+<img width="1167" height="808" alt="image" src="https://github.com/user-attachments/assets/f6244baf-fc4d-4d32-8038-c54916ac3eff" />
+
